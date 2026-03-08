@@ -2,6 +2,8 @@
 
 This project demonstrates how structured HR data and unstructured exit interview text can be combined to generate workforce insights.
 
+### Project Pipeline
+
 ## Objectives
 
 - Identify workforce segments associated with high attrition
