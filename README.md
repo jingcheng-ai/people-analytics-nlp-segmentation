@@ -14,6 +14,7 @@ This project demonstrates how structured HR data and unstructured exit interview
 - Exploratory data analysis
 - Feature engineering
 - Logistic regression modeling
+- Segmentation analysis
 - Natural language processing of exit interview text
 
 ## Dataset
